@@ -1,0 +1,24 @@
+.tabs-container {
+  width: calc(100% - 50px);
+  display: flex;
+  justify-content: space-around;
+  background: lightgray;
+  height: 55px;
+  align-items: center;
+  padding: 25px;
+
+  &:hover {
+    cursor: pointer;
+  }
+
+  .tab-main {
+    display: flex;
+    height: inherit;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    &.active-tab {
+      border: 5px solid #ffffff;
+    }
+  }
+}

@@ -1,0 +1,38 @@
+.card-main {
+  margin-bottom: 25px;
+  display: flex;
+  width: 100%;
+  background: lightgray;
+  box-shadow: 15px 15px 15px rgba(218, 121, 121, 121);
+  .content-main {
+    background: #ffffff;
+    width: 70%;
+    height: inherit;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 15px;
+
+    .title {
+      font-weight: 600;
+    }
+
+    .time {
+      margin-top: 20px;
+      color: lightcoral;
+    }
+  }
+  .swipe-area {
+    width: 30%;
+    background: lightgreen;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+  }
+  &:hover {
+    cursor: pointer;
+  }
+}
