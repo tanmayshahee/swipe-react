@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/swipe-react/static/css/main.5e39eefa.chunk.css",
+    "main.js": "/swipe-react/static/js/main.4110dd20.chunk.js",
+    "main.js.map": "/swipe-react/static/js/main.4110dd20.chunk.js.map",
+    "runtime-main.js": "/swipe-react/static/js/runtime-main.b64d7935.js",
+    "runtime-main.js.map": "/swipe-react/static/js/runtime-main.b64d7935.js.map",
+    "static/css/2.24abdfb6.chunk.css": "/swipe-react/static/css/2.24abdfb6.chunk.css",
+    "static/js/2.40238a43.chunk.js": "/swipe-react/static/js/2.40238a43.chunk.js",
+    "static/js/2.40238a43.chunk.js.map": "/swipe-react/static/js/2.40238a43.chunk.js.map",
+    "index.html": "/swipe-react/index.html",
+    "precache-manifest.c9cc921912204e78113e8da90dbd9b53.js": "/swipe-react/precache-manifest.c9cc921912204e78113e8da90dbd9b53.js",
+    "service-worker.js": "/swipe-react/service-worker.js",
+    "static/css/2.24abdfb6.chunk.css.map": "/swipe-react/static/css/2.24abdfb6.chunk.css.map",
+    "static/css/main.5e39eefa.chunk.css.map": "/swipe-react/static/css/main.5e39eefa.chunk.css.map",
+    "static/js/2.40238a43.chunk.js.LICENSE.txt": "/swipe-react/static/js/2.40238a43.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b64d7935.js",
+    "static/css/2.24abdfb6.chunk.css",
+    "static/js/2.40238a43.chunk.js",
+    "static/css/main.5e39eefa.chunk.css",
+    "static/js/main.4110dd20.chunk.js"
+  ]
+}
